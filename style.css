@@ -1,0 +1,15 @@
+.button {
+    background-color:darkmagenta;
+    color:gold;
+    padding: 15px, 30px;
+    text-align: center;
+    text-decoration:wavy;
+    font-size: 16px;
+  }
+  body{
+    background-color: azure;
+    font-family:cursive;
+  }
+  .bold{
+    font-style: italic;
+  }
